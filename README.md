@@ -50,7 +50,11 @@ python string_functions.py
 ### Usage
  After running the script enter a string and a number then it should print the strings that are longer than the number you gave and the words that are palinroms 
 
-<img width="394" alt="image" src="https://github.com/HosamHegly/Job_exam/assets/57544654/e4263b9e-b50e-4d41-aaf5-016c85a477dc">
+<img width="329" alt="image" src="https://github.com/HosamHegly/Job_exam/assets/57544654/8f34d77c-50b6-455c-864f-55973a4da3f7">
+
+You can also import the functions to another script:
+
+<img width="611" alt="image" src="https://github.com/HosamHegly/Job_exam/assets/57544654/ec2ca231-d7d7-4add-a1b4-5c9490d29288">
 
 
 
