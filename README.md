@@ -1,5 +1,5 @@
 
-## Python Exam
+## Job Exam
 ## Part 1: Non-Code Exercises and Solutions
 
 In addition to practical Python functions, this repository also includes thoughtful responses to theoretical questions related to the loan offer generation process. These exercises, provided in the PDF "Production QA Exam ," explore various scenarios in the loan application and approval process, such as changes in thresholds, error sources in applications, and the application of debt-to-income (DTI) restrictions.
